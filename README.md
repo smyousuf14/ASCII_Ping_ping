@@ -29,3 +29,4 @@ To get started with this game, you need to have either .NET Framework or .NET Co
 ## USAGE
 Once you have compiled the program, simply run the generated executable file from the terminal or command prompt. The game will start immediately, and you can begin playing using the designated controls for each player.
 
+![image](https://github.com/user-attachments/assets/75e6207c-a37b-43e6-8936-a98c3f30359a)
